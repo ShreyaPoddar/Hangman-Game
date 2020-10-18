@@ -11,7 +11,7 @@ friend
 mobile
 player
 walking
-Smanitizer
+Sanitizer
 quarantine
 perfume
 laptop
@@ -31,5 +31,11 @@ detached
 attached
 keyboard
 working
-
+charger
+notebooks
+cricket
+ball
+tubelight
+student
+battery
 Protagnist
